@@ -4,12 +4,10 @@ from snowflake.snowpark.functions import col
 import requests
 import pandas as pd
 
-
 # Write directly to the app
 st.title(":cup_with_straw: Customize Your Smoothie :cup_with_straw:")
 st.write(
     f"""Replace the code in this example app with your own code! And if you're new to Streamlit, here are some helpful links:
-
 
     """
 )
